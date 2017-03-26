@@ -1,0 +1,5 @@
+platform :ios, '10.2'
+target '百思不得姐' do
+pod 'AFNetworking'
+pod 'pop'
+end
